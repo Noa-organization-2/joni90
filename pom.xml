@@ -51,27 +51,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.elasticsearch</groupId>
-      <artifactId>elasticsearch</artifactId>
-      <version>7.13.1</version>
-    </dependency>
-
-    <dependency>
-       <groupId>org.jruby.jcodings</groupId>
-       <artifactId>jcodings</artifactId>
-       <version>1.0.56</version>
-    </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.13.1</version>
-      <scope>test</scope>
-    </dependency>
-     <dependency>
-      <groupId>org.apache.httpcomponents.client5</groupId>
-      <artifactId>httpclient5</artifactId>
-      <version>3.4.0</version>
-      <scope>test</scope>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>31.1-jre</version>
     </dependency>
   </dependencies>
 
