@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "directus": "^10.6.0"
+    "tough-cookie": "2.5.0"
   }
 }
